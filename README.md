@@ -1,2 +1,2 @@
 # Leetcode-Problems
-This repo contains all the leetcode problems I've solved so far
+Reworking on Leetcode again to practice DSA and programming
